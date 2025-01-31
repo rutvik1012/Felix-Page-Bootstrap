@@ -1,0 +1,52 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.nav-link{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+nav .container{
+    background-color: #b6b6b6;
+}
+.btn{
+    color: black;
+    font-weight: 500;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.banner{
+background-image: url(banner1.png);
+background-repeat: no-repeat;
+    background-position: center;
+    margin: 30px;
+    
+
+}
+.banner_but{ 
+    margin: 80px auto;
+    width: 20%;  
+}
+.about .container{
+    background-color: #b6b6b6;
+    border-radius: 16px;
+    padding: 10px;
+}
+.our{
+    background-color: black;
+}
+/* .image{
+   width: 70% !important;
+   height: 500px !important;
+} */
+.container.services{
+    background-color: #b6b6b6;
+    border-radius: 16px;
+    margin-top: 30px;
+}
+.fa-brands, .fa-solid{
+    font-size: 30px;
+}
